@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
 
@@ -338,5 +337,6 @@ from model_training import *
 -  Reproducible with seeding
 -  Configuration-driven parameters
 -  Detailed logging and visualization
+
 
 ---
